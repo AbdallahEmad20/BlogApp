@@ -1,0 +1,16 @@
+
+3 schema 
+ 
+  user ,  driver ,  ride
+
+  user or driver >>
+  name ,  email ,  password  , role , phone  >> sign up 
+
+more data (driver)
+colorCar , LinceNumber , isavailable ,  ...
+
+
+
+ sign  up   >> name ,  email ,  role , phone
+
+
